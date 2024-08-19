@@ -1,2 +1,1 @@
-# web3-page-react
-this is react landing page of web3 
+This is full react website for web3 companies
